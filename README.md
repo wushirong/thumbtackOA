@@ -1,2 +1,3 @@
 # thumbtackOA
 Memory DB 0.0.1
+1. SET, GET, UNSET, BEGIN, COMMIT, ROLLBACK
